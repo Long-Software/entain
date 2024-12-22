@@ -22,7 +22,7 @@ const CommentSection = () => {
                 <div>
                   <p className="font-medium">Alice</p>
                   <p className="bg-white rounded-lg p-2 shadow-md">
-                    Hey! How's it going?
+                    Hey! How it going?
                   </p>
                   <span className="text-xs text-gray-400">10:15 AM</span>
                 </div>
@@ -44,7 +44,7 @@ const CommentSection = () => {
               </div>
             </div>
             {/* Add more messages */}
-          </div>``
+          </div>
         </div>
       </div>
       <div className="flex">
